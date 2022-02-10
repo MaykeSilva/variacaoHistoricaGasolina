@@ -20,3 +20,7 @@ matplotlib.pyplot </br></br>
 
 > **PREVIEW**
 
+![image](https://user-images.githubusercontent.com/92809543/153322918-26988b33-8080-4284-a16f-c9208b6e7003.png)
+</br></br>
+![image](https://user-images.githubusercontent.com/92809543/153322959-49dc243a-432a-4ca1-855c-ea06a6a04a44.png)
+
