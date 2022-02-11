@@ -28,5 +28,10 @@ matplotlib.pyplot <br/><br/>
 ![image](https://user-images.githubusercontent.com/92809543/153322959-49dc243a-432a-4ca1-855c-ea06a6a04a44.png)
 <br/><br/>
 
+> **BACKSTAGE**
+
+![gif_plot](https://user-images.githubusercontent.com/92809543/153521582-c697249e-a758-41d7-a689-65c802dad52c.gif)
+
+<br/><br/>
 ***< Keep calm and analysing data >***
 
